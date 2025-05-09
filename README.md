@@ -1,0 +1,1 @@
+This is about handling media files in Django
